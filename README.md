@@ -13,7 +13,7 @@ Participants
 ## Format
 -	Each team of EAR-MP shall carry out one of the topics announced by EAR-MP Steering Committee (SC). 
 - Topics: the topics of EAR-MP project are determined by two ways;
-  - Topics from International competitions: many international conferences on data science and databases run competition programs. The EAR-MP steering committee will propose topics from these competition programs. [An example of data science competition](https://sigspatial2026.sigspatial.org/giscup.html)
+  - Topics from International competitions: many international conferences on data science and databases run competition programs. The EAR-MP steering committee will propose topics from these competition programs. ([an example of data science competition](https://sigspatial2026.sigspatial.org/giscup.html))
   - Proposition by students: students from the participant universities may also propose topics, which will be screened by the SC. The proposal of topics will be closed by June 15, 2026, 23:59 local time in Seoul/Tokyo. 
 - Each team is composed of three or four students from different universities and countries. A mentor will be assigned to each team.
 - The project will start from the July 1st and end before the end of 2026.
