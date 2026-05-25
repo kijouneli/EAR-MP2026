@@ -1,1 +1,32 @@
 # EAR-MP2026
+## Overview
+In order to promote international collaborations between graduate students, we launched a mini-project program called EAR-MP (EAstern Regional Mini-Project) since 2025. The departments of data science of five national universities in Korea and two universities in Japan listed below have participated from the last year and more universities are expected to join from 2026. Following very successful program in 2025, we announce the EAR-MP program for 2026.
+Participants
+- Chonnam National University, South Korea
+- Hiroshima University, Japan
+- Kangwon National University, South Korea
+- Kyungbook National University, South Korea
+- Pukyung National University, South Korea
+- Pusan National University, South Korea
+- University of Tsukuba, Japan
+
+## Format
+-	Each team of EAR-MP shall carry out one of the topics announced by EAR-MP Steering Committee (SC). 
+- Topics: the topics of EAR-MP project are determined by two ways;
+  - Topics from International competitions: many international conferences on data science and databases run competition programs. The EAR-MP steering committee will propose topics from these competition programs. 
+  - Proposition by students: students from the participant universities may also propose topics, which will be screened by the SC. The proposal of topics will be closed by June 15, 2026, 23:59 local time in Seoul/Tokyo. 
+- Each team is composed of three or four students from different universities and countries. A mentor will be assigned to each team.
+- The project will start from the July 1st and end before the end of 2026.
+- Each team has to provide the following deliverables
+  - Report:
+  -	Presentation video (10 min.)
+-  At the end of the project, an in-person workshop is scheduled in Korea or in Japan. The members of selected teams are to be invited to the workshop and the awards will be given to one winner and two runner-up teams at the workshop.
+
+## Topic Proposal
+Students from the participant universities may propose topics of EAR-MP program for 2026. The scope of topics may be any applications of data science. The proposals will be screened by the SC and selected topics will be proposed via the EAR-MP website. The students of the selected proposals will be also invited to the EAR-MP workshop. In order to propose any topics, the followings have to be considered;
+- Scope: any applications of data science
+- Data: data set (for training and validation) of the topic has to be also provided. 
+- Due date: June 22, 2026, 23:59 JST/KST
+- The form for the proposal is available via
+
+
