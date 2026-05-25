@@ -22,7 +22,7 @@ Participants
 - Each team has to provide the following deliverables
   - Report and
   -	Presentation video (10 min.)
--  At the end of the project, an in-person workshop is scheduled in Korea or in Japan. The members of selected teams are to be invited to the workshop and the awards will be given to one winner and two runner-up teams at the workshop.
+-  At the end of the project, in-person workshop is scheduled in Korea or in Japan. The members of selected teams are to be invited to the workshop and the awards will be given to one winner and two runner-up teams at the workshop.
 
 ## Application
 - Any graduate student from the data science departments of the participant universities may apply to EAR-MP 2026.
