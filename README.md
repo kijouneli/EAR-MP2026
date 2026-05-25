@@ -15,12 +15,19 @@ Participants
 - Topics: the topics of EAR-MP project are determined by two ways;
   - Topics from International competitions: many international conferences on data science and databases run competition programs. The EAR-MP steering committee will propose topics from these competition programs. ([an example of data science competition](https://sigspatial2026.sigspatial.org/giscup.html))
   - Proposition by students: students from the participant universities may also propose topics, which will be screened by the SC. The proposal of topics will be closed by June 15, 2026, 23:59 local time in Seoul/Tokyo. 
-- Each team is composed of three or four students from different universities and countries. A mentor will be assigned to each team.
-- The project will start from the July 1st and end before the end of 2026.
+- After receiving the applications, the members will be assigned to each team. Each team is to be composed of three or four students from different universities and countries.
+- A mentor will be assigned to each team.
+- The project will start from the July 15th and end before the end of 2026.
+- Team members shall collaborate for the project via online in English. The SC will provide any logistics for the collaboration if necessary.
 - Each team has to provide the following deliverables
-  - Report
+  - Report and
   -	Presentation video (10 min.)
 -  At the end of the project, an in-person workshop is scheduled in Korea or in Japan. The members of selected teams are to be invited to the workshop and the awards will be given to one winner and two runner-up teams at the workshop.
+
+## Application
+- Any graduate student from the data science departments of the participant universities may apply to EAR-MP 2026.
+- The application form will be open soon.
+- Application due date will be announced soon.
 
 ## Topic Proposal
 Students from the participant universities may propose topics of EAR-MP program for 2026. The scope of topics may be any applications of data science. The proposals will be screened by the SC and selected topics will be proposed via the EAR-MP website. The students of the selected proposals will be also invited to the EAR-MP workshop. In order to propose any topics, the followings have to be considered;
