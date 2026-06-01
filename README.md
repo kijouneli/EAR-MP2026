@@ -1,6 +1,6 @@
 # EAR-MP2026
 ## Overview
-In order to promote international collaborations between graduate students, we launched a mini-project program called EAR-MP (EAstern Regional Mini-Project) since 2025. The departments of data science of five national universities in Korea and two universities in Japan listed below have participated from the last year and more universities are expected to join from 2026. Following very successful [program in 2025](https://bolder-freighter-5c2.notion.site/Home-1dceba03a260801a9cbfc55dc7ae45af), we announce the EAR-MP program for 2026.
+In order to promote international collaborations between graduate students, we launched a mini-project program called EAR-MP (EAstern Regional Mini-Project) since 2025. The departments of data science of five national universities in Korea and two universities in Japan listed below have participated from the last year and more universities are expected to join from 2026. Following very successful [program in 2025](https://bolder-freighter-5c2.notion.site/Home-1dceba03a260801a9cbfc55dc7ae45af), we are happy to announce the EAR-MP program for 2026.
 Participants
 - Chonnam National University, South Korea
 - Hiroshima University, Japan
@@ -14,7 +14,7 @@ Participants
 -	Each team of EAR-MP shall carry out one of the topics announced by EAR-MP Steering Committee (SC). 
 - Topics: the topics of EAR-MP project are determined by two ways;
   - Topics from International competitions: many international conferences on data science and databases run competition programs. The EAR-MP steering committee will propose topics from these competition programs. ([an example of data science competition](https://sigspatial2026.sigspatial.org/giscup.html))
-  - Proposition by students: students from the participant universities may also propose topics, which will be screened by the SC. The proposal of topics will be closed by June 15, 2026, 23:59 local time in Seoul/Tokyo. 
+  - Proposition by students: students from the participant universities may also propose topics, which will be screened by the SC. The proposal of topics will be closed by June 22, 2026, 23:59 local time in Seoul/Tokyo. 
 - After receiving the applications, the members will be assigned to each team. Each team is to be composed of three or four students from different universities and countries.
 - A mentor will be assigned to each team.
 - The project will start from the July 15th and end before the end of 2026.
