@@ -1,6 +1,6 @@
 # EAR-MP2026
 ## Overview
-In order to promote international collaborations between graduate students, we launched a mini-project program called EAR-MP (EAstern Regional Mini-Project) since 2025. The departments of data science of five national universities in Korea and two universities in Japan listed below have participated from the last year and more universities are expected to join from 2026. Following very successful program in 2025, we announce the EAR-MP program for 2026.
+In order to promote international collaborations between graduate students, we launched a mini-project program called EAR-MP (EAstern Regional Mini-Project) since 2025. The departments of data science of five national universities in Korea and two universities in Japan listed below have participated from the last year and more universities are expected to join from 2026. Following very successful [program in 2025](https://bolder-freighter-5c2.notion.site/Home-1dceba03a260801a9cbfc55dc7ae45af), we announce the EAR-MP program for 2026.
 Participants
 - Chonnam National University, South Korea
 - Hiroshima University, Japan
