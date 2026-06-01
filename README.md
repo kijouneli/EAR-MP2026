@@ -23,9 +23,9 @@ Participants
   - Report and
   -	Presentation video (10 min.)
 
-## Workshop and Rewards
+## Workshop and Awards
 -  At the end of the project, in-person workshop is scheduled in Korea or in Japan. The members of selected teams are to be invited to the workshop and the awards will be given to one winner and two runner-up teams at the workshop.
--  The students of the selected proposals will be also invited to the EAR-MP workshop
+-  The students of the selected proposals will be also invited to the EAR-MP workshop as award of the program.
 
 ## Application
 - Any graduate student from the data science departments of the participant universities may apply to EAR-MP 2026.
@@ -33,10 +33,11 @@ Participants
 - Application due date will be announced soon.
 
 ## Topic Proposal
-Students from the participant universities may propose topics of EAR-MP program for 2026. The scope of topics may be any applications of data science. The proposals will be screened by the SC and selected topics will be proposed via the EAR-MP website. The students of the selected proposals will be also invited to the EAR-MP workshop. In order to propose any topics, the followings have to be considered;
+Students from the participant universities may propose topics of EAR-MP program for 2026. The scope of topics may be any applications of data science. It also inlcudes the proposal of strategy and action planning of any competition programs. The proposals will be screened by the SC and selected topics will be proposed via the EAR-MP website. The students of the selected proposals will be also invited to the EAR-MP workshop. In order to propose any topics, the followings have to be considered;
 - Scope: any applications of data science
 - Data: data set (for training and validation) of the topic has to be also provided. 
 - Due date: June 22, 2026, 23:59 JST/KST
 - The form for the proposal is available [here](https://docs.google.com/document/d/1DfOO5Md3YfOL8_7Vs-9oOv1j9kP9fXpXa1W8z1YdZP0/edit?usp=sharing)
+- The students of the selected proposal will be invited to Korea or Japan (for Korean students to Japan and vice-versa).
 
 
